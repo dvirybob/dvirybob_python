@@ -10,4 +10,4 @@ for number in b:
         print("not ten")
         c = 10
 
-c = c +1
+c = c +10
